@@ -1,5 +1,6 @@
+// TODO: Document this code (Update the documented code)
 import { Client as BaseClient, ClientOptions, Collection, MessageEmbed } from 'discord.js';
-import { Commands } from '../../typings/index'
+import { Commands } from '../../typings/index';
 
 // We will extend the Client class and add new properties and methods
 export class Client extends BaseClient {

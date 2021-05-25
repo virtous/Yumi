@@ -1,3 +1,4 @@
+// TODO: Document this code
 import { BaseClient, Events } from '../../typings/index.js';
 import { date } from '../tools/Date.js';
 

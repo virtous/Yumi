@@ -85,6 +85,7 @@ async function loadCommands(): Promise<void> {
 
 // Load everything
 async function main(): Promise<void> {
+    // We try to run our bot and catch errors (if any)
     try {
         await client.connect();
         await loadEvents();
@@ -102,4 +103,5 @@ async function main(): Promise<void> {
     };
 };
 
+// Run the main function
 main();
