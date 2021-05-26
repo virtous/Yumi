@@ -8,4 +8,3 @@ To verify, you can run the [`./verify.sh`](https://github.com/virtous/Yumi/blob/
 ```sh
 $ bash ./verify.sh
 ```
-Once you ran that, you can also run the [`./setup.sh`](https://github.com/virtous/Yumi/blob/main/setup.sh 'setup.sh') file.
